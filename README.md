@@ -1,2 +1,3 @@
 # test_repo
-My first repo
+My first Java Project
+
